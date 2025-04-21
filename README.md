@@ -6,11 +6,27 @@ _"Coding philosophy encompasses the guiding principles, values, and best practic
 
 _"Programming is not just about writing code, it’s a systematical way of reasoning."_ - [freecodecamp](https://www.freecodecamp.org/news/the-philosophy-of-programming-e901bd37363a/)
 
-## object modelling
+(table of contents here?)
 
-### core elements of any object or concept
+## philosophies that I strongly follow
 
-1. identification (task, bill, vehicle, file, resume, uuid, etc.)
+The Unix Philosophy, which I use as Guidance.
+
+    Write programs that do one thing and do it well.
+    Write programs to work together.
+    Write programs to handle text streams, because that is a universal interface. (json/yaml/tsv)
+
+## systematic ways of solving a problems
+
+...
+
+## dealing with collections
+
+Common problem I have in my life is the management of collections of objects. (birthdays, contacts, tasks, bills, vehicles, documents, etc.) mention of "managers"
+
+### object modelling
+
+topics: identification, uuid, yaml, json, csv, tsv, csv vs. tsv, 
 
 ## how I name my things
 
